@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: Benefits is the page doesn't refresh, it updates state with what the user is doing.
 
 ## Project Set Up
 
